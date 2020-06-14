@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15231fde-0fc2-4b57-b0ad-1e102986cfa5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="vueblog" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/my_java/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\my_java\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1dGH2LocYbqjwakQ1vIC7muBjia" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.VueblogApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day1.util.CodeGenerator" />
+      <module name="logindemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day1.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day1.util.test" />
+      <module name="logindemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day1.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VueblogApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="logindemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.day1" />
+      <option name="MAIN_CLASS_NAME" value="com.day1.VueblogApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VueblogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="logindemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day1.VueblogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="JUnit.VueblogApplicationTests.contextLoads" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15231fde-0fc2-4b57-b0ad-1e102986cfa5" name="Default Changelist" comment="" />
+      <created>1592044301580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592044301580</updated>
+      <workItem from="1592044309550" duration="362000" />
+      <workItem from="1592044687398" duration="3588000" />
+      <workItem from="1592065694290" duration="11816000" />
+      <workItem from="1592131627097" duration="126000" />
+      <workItem from="1592131802347" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592065542901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592065542901" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1592125029466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592125029466" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592131710493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592131710493" />
+    <state width="1877" height="464" key="GridCell.Tab.0.bottom" timestamp="1592131582866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592131582866" />
+    <state width="1877" height="464" key="GridCell.Tab.0.center" timestamp="1592131582866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592131582866" />
+    <state width="1877" height="464" key="GridCell.Tab.0.left" timestamp="1592131582866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592131582866" />
+    <state width="1877" height="464" key="GridCell.Tab.0.right" timestamp="1592131582866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592131582866" />
+    <state width="1877" height="464" key="GridCell.Tab.1.bottom" timestamp="1592131582866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592131582866" />
+    <state width="1877" height="464" key="GridCell.Tab.1.center" timestamp="1592131582866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592131582866" />
+    <state width="1877" height="464" key="GridCell.Tab.1.left" timestamp="1592131582866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592131582866" />
+    <state width="1877" height="464" key="GridCell.Tab.1.right" timestamp="1592131582866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592131582866" />
+  </component>
+</project>
