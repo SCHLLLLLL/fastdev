@@ -1,7 +1,8 @@
 # fastdev
-springboot + shrio + jwt + swagger的登录demo
+springboot + shiro + jwt + swagger的登录demo
 
 - 核心框架：Springboot 2.2.6
+- 安全框架：shiro-redis 3.2.1
 - 持久层框架：Mybatis + mybatis plus 3.2.0
 - 页面模板：Freemarker
 - 缓存框架：Redis
